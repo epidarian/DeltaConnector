@@ -1,0 +1,14 @@
+{
+	"tables": [
+		{"name":"Users","selectStatement":"SELECT * FROM Users"},
+		{"name":"Workcenters","selectStatement":"SELECT * FROM Workcenters"},
+
+	],
+	"DatabaseName":"sked32",
+    	"DatabaseConnectionString":"localhost",
+	"PuTTyPath": "C:\\Users\\Public\\Downloads\\SKED\\PuTTY",
+	"CSVFilePath":"C:\\Users\\Public\\Documents\\beast\\",
+	"KeyFile":"C:\\Users\\Administrator\\.ssh\\putty_pri.ppk",
+	"CSVUploadDestination":"user@128.34.52.158:/sked-csv/beastcode/",
+	"SFTPPort": 31022
+}
